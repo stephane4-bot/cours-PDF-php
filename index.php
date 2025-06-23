@@ -38,6 +38,6 @@ echo "is_float (1.25) :" . (is_float(1.25) ? 'true' : 'false') . '<br>' ;
 echo "is_int(3.4) :" . (is_int(3.4) ? 'true' : 'false') . '<br>' ;
 echo "is_numeric(\"3.45\") :" . (is_numeric("3.45") ? 'true' : 'false') . '<br>' ;
 echo "is_numeric(\"3g.45\") :" . (is_numeric("3g.45") ? 'true' : 'false') . '<br>' ;
-jggyy2jwhewj
+j'aime la programmation
 
 ?>
